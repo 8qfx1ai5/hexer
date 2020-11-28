@@ -2,16 +2,17 @@
 Collection of tools to handle and train reading of text in hexadecimal numbers. (unicode)
 Have fun :)
 
-# How to run:
-Just open the html files from the __public__ folder in your favorite browser.
-
 # The tools:
 
 ## Hex-Flush
 A tool to translate a text into hexadecimal numbers. You can hover over a number to get the original character.
 
+[-> try it](https://8qfx1ai5.github.io/hexer/public/hexflush.html)
+
 ## Hex-Snap
 A tool to train the understanding of single words. You can paste any text. The words get translated and shuffled, before the training starts.
+
+[-> try it](https://8qfx1ai5.github.io/hexer/public/hexsnap.html)
 
 Navigation:
 1. double click: finish the training and get back to the configuration page.
